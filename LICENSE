@@ -21,10 +21,11 @@ Açık yazılı izin olmadan şunları yapamazsınız:
 4) Yazılımı kendi adınızla veya farklı bir marka altında yayınlamak.
 
 3. Veri ve Gizlilik
-Tüm kişisel verileriniz (takip listesi, portföy, notlar, ayarlar) yalnızca kendi
-cihazınızda yerel olarak saklanır. Yalnızca isteğe bağlı Google ile giriş ve sohbet
-özellikleri borsa.bot sunucusuyla iletişim kurar. Verileriniz satılmaz ya da üçüncü
-taraflarla paylaşılmaz.
+Tüm kişisel verileriniz (takip listesi, portföy, notlar, alarmlar, ayarlar) yalnızca
+kendi cihazınızda yerel olarak saklanır ve borsa.bot sunucularına gönderilmez. Piyasa
+ve haber verileri herkese açık kaynaklardan çekilir; yapay zeka özelliği kullanılırsa
+yalnızca sizin girdiğiniz API anahtarıyla ilgili sağlayıcıya istek gider. Verileriniz
+satılmaz ya da üçüncü taraflarla paylaşılmaz.
 
 4. Yatırım Tavsiyesi Değildir
 borsa.bot ve sunduğu tüm veriler yalnızca bilgilendirme amaçlıdır ve yatırım tavsiyesi
